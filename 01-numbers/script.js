@@ -13,7 +13,7 @@ console.log(numOnePlusNumTwo);
 
 // 2. Imposta questa variabile come prodotto di numThree e numTwo
 const numThreeTimesNumTwo = numThree * numTwo;
-console.log("numThreeTimesNumTwo"); // Output: 512
+console.log(numThreeTimesNumTwo); // Output: 512
 
 // 3. Imposta questa variabile come divisione di numThree per numOne
 const numThreeDividedByNumOne = numThree / numOne;
